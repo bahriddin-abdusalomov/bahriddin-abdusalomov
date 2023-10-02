@@ -10,7 +10,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a>                                       </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -39,21 +38,21 @@
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="33"
-      height="33"
+      width="31"
+      height="31"
     />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
-      width="36"
-      height="36"
+      width="34"
+      height="34"
     />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img
-      src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png"
+      src="https://static.cdnlogo.com/logos/c/27/c.svg"
       alt="csharp"
       width="40"
       height="40"
@@ -97,7 +96,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png"
+      src="https://www.onurbabur.com/wp-content/uploads/2023/03/PostgreSQL-Logo.wine_.png   "
       alt="xd"
       width="25"
       height="25"
