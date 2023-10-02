@@ -98,8 +98,8 @@
     <img
       src="https://www.onurbabur.com/wp-content/uploads/2023/03/PostgreSQL-Logo.wine_.png   "
       alt="xd"
-      width="25"
-      height="25"
+      width="27"
+      height="29"
     />
   </a>
 </p>
