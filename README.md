@@ -96,7 +96,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://www.onurbabur.com/wp-content/uploads/2023/03/PostgreSQL-Logo.wine_.png   "
+      src="https://www.pngkey.com/png/full/466-4667821_postgres-logo.png"
       alt="xd"
       width="27"
       height="29"
