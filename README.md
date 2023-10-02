@@ -86,8 +86,8 @@
     <img
         src="https://static.javatpoint.com/tutorial/entity-framework/images/entity-framework-tutorial.png"
       alt="unity"
-      width="25"
-      height="25"
+      width="27"
+      height="28"
     />
   </a>
   <a
@@ -98,8 +98,8 @@
     <img
       src="https://www.pngkey.com/png/full/466-4667821_postgres-logo.png"
       alt="xd"
-      width="27"
-      height="29"
+      width="25"
+      height="25"
     />
   </a>
 </p>
