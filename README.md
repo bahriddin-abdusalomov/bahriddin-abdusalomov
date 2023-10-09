@@ -6,7 +6,7 @@
 
 - 🧭 My specialty: `.net`, `asp.net`, `postgresql`
 - 💻 My programming languages: `.cs`
-- 📫 How to reach me: [telegram](https://t.me/Bahriddin_Abdusalomov)
+- 📫 How to reach me: [telegram](https://t.me/Bahriddin_Abdusalomov) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
