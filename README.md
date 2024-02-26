@@ -1,6 +1,6 @@
 ### Hi there, I am Bahriddin👋 
   
-### I'm a Software Engineer. 
+### I'm a Software Engineer.  
   
 ### About Me     
     
