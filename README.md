@@ -1,4 +1,4 @@
-### Hi there, I am Bahriddin👋 
+### Hi there, I am Bahriddin👋  
   
 ### I'm a Software Engineer.  
   
